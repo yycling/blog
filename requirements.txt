@@ -4,7 +4,7 @@ django-pure-pagination==0.3.0
 jieba==0.39
 Markdown==2.6.11
 mysqlclient==1.3.12
-Pillow==5.0.0
+Pillow==8.2.0
 pytz==2017.3
 sqlparse==0.3.0
 Whoosh==2.7.4
